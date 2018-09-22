@@ -1,0 +1,8 @@
+h1{
+  color: #ff0000;
+}
+ol{
+  li {
+    color: #0000ff;
+  }
+}
